@@ -1,0 +1,5 @@
+{
+  "name": "AI 遊戲生成器 (Arcade Gen)",
+  "description": "輸入主題，AI 自動為你生成專屬的射擊遊戲！",
+  "requestFramePermissions": []
+}
